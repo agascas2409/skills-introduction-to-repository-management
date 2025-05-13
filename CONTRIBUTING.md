@@ -33,3 +33,11 @@ new features, this guide will help you get started. 🎉
   - If not there, create a new issue. Be as descriptive as possible.
 - Ask in our weekly IT Club office hours (Thursdays at lunch in Room 203).
 - For other general problems, email the tech team at techclub@mergingtonhigh.example.edu
+
+# Core functionality - changes here should be rare!
+/src/app.py                   @agascas2409
+/src/backend/database.py      @agascas2409
+/src/backend/routers/auth.py  @agascas2409
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @agascas2409
